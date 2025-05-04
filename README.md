@@ -48,4 +48,5 @@
 
 ---
 
-![Aperçu de StepWise](Jetracer.jpg)
+
+<img src="Jetracer.jpg" alt="Aperçu StepWise" width="400"/>
