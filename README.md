@@ -48,5 +48,8 @@
 
 ---
 
+<p align="center">
+  <img src="Jetracer.jpg" alt="Aperçu StepWise" width="400">
+</p>
 
-<img src="Jetracer.jpg" alt="Aperçu StepWise" width="400"/>
+
